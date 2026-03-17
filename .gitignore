@@ -1,0 +1,6 @@
+.env
+gcp_service_account.json
+*.json
+venv/
+__pycache__/
+data/*.csv
